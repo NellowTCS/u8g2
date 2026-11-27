@@ -1,7 +1,7 @@
 /*
   Fontname: -FreeType-BoutiqueBitmap9x9 1.9 R-Medium-R-Normal--10-100-72-72-P-91-ISO10646-1
   Copyright: [BoutiqueBitmap9x9]  Copyright © 2022 W
-  Glyphs: 321/12408
+  Glyphs: 321/12393
   BBX Build Mode: 0
 */
 const uint8_t u8g2_font_boutique_bitmap_9x9_te[3753] U8G2_FONT_SECTION("u8g2_font_boutique_bitmap_9x9_te") = 
